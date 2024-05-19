@@ -131,8 +131,6 @@ https://simontutorial.de/canva/
 <div style="width:100%;height:0;padding-bottom:101%;position:relative;"><iframe src="https://giphy.com/embed/hGRlr5VjYsTVZOcWm3" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/wind-answer-question-mark-hGRlr5VjYsTVZOcWm3">via GIPHY</a></p>
 
 
-# Canva FAQ
-
 <details>
 <summary>Was ist Canva?</summary>
 Canva ist ein benutzerfreundliches Grafikdesign-Tool, mit dem du verschiedene visuelle Inhalte wie Präsentationen, Social Media Grafiken, Poster und mehr erstellen kannst. Es bietet eine Vielzahl von Vorlagen und Design-Elementen, die du einfach per Drag-and-Drop verwenden kannst.
@@ -213,9 +211,6 @@ Canva ist ein benutzerfreundliches Grafikdesign-Tool, mit dem du verschiedene vi
 
 <details>
 <summary>Kann ich mein Design nach dem Speichern bearbeiten?</sum
-
-
-
 
 
 
