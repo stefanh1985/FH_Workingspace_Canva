@@ -130,63 +130,89 @@ https://simontutorial.de/canva/
 ## ❓FAQ 
 <div style="width:100%;height:0;padding-bottom:101%;position:relative;"><iframe src="https://giphy.com/embed/hGRlr5VjYsTVZOcWm3" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/wind-answer-question-mark-hGRlr5VjYsTVZOcWm3">via GIPHY</a></p>
 
+
+# Canva FAQ
+
 <details>
 <summary>Was ist Canva?</summary>
-Canva ist ein Online-Design-Tool, mit dem du ganz einfach Grafiken, Präsentationen, Social-Media-Beiträge und vieles mehr erstellen kannst. Es bietet eine Vielzahl von Vorlagen und Design-Elementen, die du nach deinen Wünschen anpassen kannst.
+Canva ist ein benutzerfreundliches Grafikdesign-Tool, mit dem du verschiedene visuelle Inhalte wie Präsentationen, Social Media Grafiken, Poster und mehr erstellen kannst. Es bietet eine Vielzahl von Vorlagen und Design-Elementen, die du einfach per Drag-and-Drop verwenden kannst.
 </details>
 
 <details>
-<summary>Wie melde ich mich bei Canva an?</summary>
-1. Gehe auf die Webseite von Canva (www.canva.com).
-2. Klicke auf "Registrieren" oder "Anmelden".
-3. Du kannst dich mit deiner E-Mail-Adresse, deinem Google-Konto oder deinem Facebook-Konto anmelden.
+<summary>Wie registriere ich mich bei Canva?</summary>
+1. Gehe auf die Canva-Website (www.canva.com).
+
+2. Klicke auf „Registrieren“.
+
+3. Wähle aus, ob du dich mit deiner E-Mail-Adresse, Google oder Facebook registrieren möchtest.
+
+4. Folge den Anweisungen auf dem Bildschirm, um deine Registrierung abzuschließen.
 </details>
 
 <details>
 <summary>Wie erstelle ich ein neues Design?</summary>
-1. Klicke auf der Startseite von Canva auf "Erstellen eines Designs".
-2. Wähle die gewünschte Vorlage oder die Abmessungen für dein Design aus.
-3. Beginne mit der Anpassung deines Designs, indem du Elemente hinzufügst und anpasst.
+1. Melde dich bei Canva an.
+
+2. Klicke auf „Erstellen eines Designs“ in der oberen rechten Ecke.
+
+3. Wähle den gewünschten Design-Typ aus der Liste (z.B. Instagram-Beitrag, Präsentation, Poster).
+
+4. Wähle eine Vorlage aus oder beginne mit einer leeren Seite.
+
+5. Verwende die Werkzeuge auf der linken Seite, um Bilder, Text, Formen und andere Elemente hinzuzufügen.
 </details>
 
 <details>
 <summary>Wie speichere ich mein Design?</summary>
-1. Klicke oben rechts auf die Schaltfläche "Herunterladen".
-2. Wähle das gewünschte Dateiformat (z.B. PNG, JPG, PDF).
-3. Klicke auf "Herunterladen", um dein Design auf deinem Computer zu speichern.
-</details>
+1. Klicke oben rechts auf „Herunterladen“.
 
-<details>
-<summary>Kann ich mein Design später bearbeiten?</summary>
-Ja, du kannst deine Designs jederzeit wieder öffnen und bearbeiten. Gehe einfach zu deinem Canva-Dashboard und klicke auf das gewünschte Design.
+2. Wähle das gewünschte Dateiformat (z.B. PNG, JPG, PDF).
+
+3. Klicke auf „Herunterladen“, um die Datei auf deinem Computer zu speichern.
 </details>
 
 <details>
 <summary>Wie teile ich mein Design mit anderen?</summary>
-1. Klicke oben rechts auf "Teilen".
-2. Wähle aus, ob du einen Link erstellen oder das Design per E-Mail verschicken möchtest.
-3. Du kannst auch festlegen, ob andere dein Design bearbeiten oder nur ansehen dürfen.
+1. Klicke oben rechts auf „Teilen“.
+
+2. Gib die E-Mail-Adressen der Personen ein, mit denen du dein Design teilen möchtest, oder kopiere den Freigabe-Link.
+
+3. Wähle die gewünschten Berechtigungen aus (z.B. Nur ansehen, Bearbeiten).
+
+4. Klicke auf „Senden“ oder „Link kopieren“.
 </details>
 
 <details>
-<summary>Wie nutze ich Vorlagen in Canva?</summary>
-1. Gehe auf der Canva-Startseite zu "Vorlagen".
-2. Suche nach der gewünschten Vorlage (z.B. "Instagram-Post").
-3. Klicke auf die Vorlage, um sie in deinem Design-Editor zu öffnen und anzupassen.
+<summary>Wie füge ich meinem Design Text hinzu?</summary>
+1. Klicke auf der linken Seite auf „Text“.
+
+2. Wähle eine der Textoptionen aus (z.B. Überschrift, Untertitel, Textkörper).
+
+3. Ziehe die Textbox in dein Design.
+
+4. Gib deinen Text ein und passe Schriftart, Größe, Farbe und Ausrichtung nach deinen Wünschen an.
 </details>
 
 <details>
-<summary>Was sind Canva Pro und die Unterschiede zur kostenlosen Version?</summary>
-Canva Pro ist eine kostenpflichtige Version von Canva, die zusätzliche Funktionen bietet, wie z.B. Zugang zu Premium-Designs, mehr Speicherplatz, Team-Funktionen und mehr. Die kostenlose Version bietet grundlegende Design-Tools und eine begrenzte Auswahl an Vorlagen und Elementen.
+<summary>Wie ändere ich den Hintergrund meines Designs?</summary>
+1. Klicke auf der linken Seite auf „Hintergrund“.
+
+2. Wähle eine Farbe oder ein Muster aus den verfügbaren Optionen aus.
+
+3. Klicke auf die gewünschte Hintergrundfarbe oder das Muster, um es auf dein Design anzuwenden.
 </details>
 
 <details>
-<summary>Wie kann ich Hilfe von Canva erhalten?</summary>
-1. Gehe auf die Canva-Webseite und scrolle nach unten bis zum Abschnitt "Hilfe".
-2. Klicke auf "Hilfe-Center", um Artikel und Anleitungen zu durchsuchen.
-3. Du kannst auch den Kundenservice kontaktieren, wenn du weitere Unterstützung benötigst.
+<summary>Wie füge ich Bilder zu meinem Design hinzu?</summary>
+1. Klicke auf der linken Seite auf „Fotos“ oder „Uploads“.
+
+2. Wähle ein Bild aus der Canva-Bibliothek oder lade ein eigenes Bild hoch.
+
+3. Ziehe das Bild in dein Design und passe die Größe und Position nach deinen Wünschen an.
 </details>
 
+<details>
+<summary>Kann ich mein Design nach dem Speichern bearbeiten?</sum
 
 
 
