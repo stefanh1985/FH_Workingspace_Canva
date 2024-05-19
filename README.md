@@ -127,6 +127,71 @@ Canva ist ein intuitives Grafikdesign-Tool, das sich hervorragend für den Einsa
 https://simontutorial.de/canva/
 
 
+## ❓FAQ 
+<div style="width:100%;height:0;padding-bottom:101%;position:relative;"><iframe src="https://giphy.com/embed/hGRlr5VjYsTVZOcWm3" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/wind-answer-question-mark-hGRlr5VjYsTVZOcWm3">via GIPHY</a></p>
+
+<details>
+<summary>Was ist Canva?</summary>
+Canva ist ein Online-Design-Tool, mit dem du ganz einfach Grafiken, Präsentationen, Social-Media-Beiträge und vieles mehr erstellen kannst. Es bietet eine Vielzahl von Vorlagen und Design-Elementen, die du nach deinen Wünschen anpassen kannst.
+</details>
+
+<details>
+<summary>Wie melde ich mich bei Canva an?</summary>
+1. Gehe auf die Webseite von Canva (www.canva.com).
+2. Klicke auf "Registrieren" oder "Anmelden".
+3. Du kannst dich mit deiner E-Mail-Adresse, deinem Google-Konto oder deinem Facebook-Konto anmelden.
+</details>
+
+<details>
+<summary>Wie erstelle ich ein neues Design?</summary>
+1. Klicke auf der Startseite von Canva auf "Erstellen eines Designs".
+2. Wähle die gewünschte Vorlage oder die Abmessungen für dein Design aus.
+3. Beginne mit der Anpassung deines Designs, indem du Elemente hinzufügst und anpasst.
+</details>
+
+<details>
+<summary>Wie speichere ich mein Design?</summary>
+1. Klicke oben rechts auf die Schaltfläche "Herunterladen".
+2. Wähle das gewünschte Dateiformat (z.B. PNG, JPG, PDF).
+3. Klicke auf "Herunterladen", um dein Design auf deinem Computer zu speichern.
+</details>
+
+<details>
+<summary>Kann ich mein Design später bearbeiten?</summary>
+Ja, du kannst deine Designs jederzeit wieder öffnen und bearbeiten. Gehe einfach zu deinem Canva-Dashboard und klicke auf das gewünschte Design.
+</details>
+
+<details>
+<summary>Wie teile ich mein Design mit anderen?</summary>
+1. Klicke oben rechts auf "Teilen".
+2. Wähle aus, ob du einen Link erstellen oder das Design per E-Mail verschicken möchtest.
+3. Du kannst auch festlegen, ob andere dein Design bearbeiten oder nur ansehen dürfen.
+</details>
+
+<details>
+<summary>Wie nutze ich Vorlagen in Canva?</summary>
+1. Gehe auf der Canva-Startseite zu "Vorlagen".
+2. Suche nach der gewünschten Vorlage (z.B. "Instagram-Post").
+3. Klicke auf die Vorlage, um sie in deinem Design-Editor zu öffnen und anzupassen.
+</details>
+
+<details>
+<summary>Was sind Canva Pro und die Unterschiede zur kostenlosen Version?</summary>
+Canva Pro ist eine kostenpflichtige Version von Canva, die zusätzliche Funktionen bietet, wie z.B. Zugang zu Premium-Designs, mehr Speicherplatz, Team-Funktionen und mehr. Die kostenlose Version bietet grundlegende Design-Tools und eine begrenzte Auswahl an Vorlagen und Elementen.
+</details>
+
+<details>
+<summary>Wie kann ich Hilfe von Canva erhalten?</summary>
+1. Gehe auf die Canva-Webseite und scrolle nach unten bis zum Abschnitt "Hilfe".
+2. Klicke auf "Hilfe-Center", um Artikel und Anleitungen zu durchsuchen.
+3. Du kannst auch den Kundenservice kontaktieren, wenn du weitere Unterstützung benötigst.
+</details>
+
+
+
+
+
+
 
 # ❣️ Best Practice Beispiel(e)
 
